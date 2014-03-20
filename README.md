@@ -16,14 +16,16 @@ Display changes every 5 seconds, with network refreshes approx every 5 minutes
 Parts:
 
 [Raspberry Pi @ Adafruit](http://www.adafruit.com/products/998)
+
 [RGB Negative 16x2 LCD @ Adafruit](http://www.adafruit.com/products/1110)
 
 Optional:
 
 [Miniature WiFi dongle @ Adafruit](http://www.adafruit.com/products/814)
+
 [rPi + LCD Plate enclosure @ Built-to-spec](http://builttospecstore.storenvy.com/collections/156322-raspberry-pi/products/2038094-adafruit-lcd-keypad-plate-enclosure)
 
 
-![DogeMonitor](http://i.imgur.com/M7eFZ6c.gif)
+![DogeMonitor](https://github.com/rand000m/dogemonitor/raw/master/DogeMonitor.gif)
 
 
